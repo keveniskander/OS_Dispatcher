@@ -1,0 +1,7 @@
+//The following line represents the format of the required input:
+
+<start_time> <process_id> <run_time> <exchange_time_1> ... <exchange_time_n>
+
+//Here is an example input that follows the above format:
+
+1000 12 5000 500 2500 3000 4500
